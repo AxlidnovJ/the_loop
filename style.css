@@ -1,0 +1,148 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    width: 1140px;
+    margin: 0% auto;
+}
+
+.header {
+    padding-top: 20px;
+    background-color: #F9F6F1;
+}
+
+.header-list {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header-item {
+    display: flex;
+    align-items: center;
+}
+
+.header-link {
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-logo {
+    width: 30px;
+    padding-right: 10px;
+}
+
+.header-title {
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.section {
+    padding-top: 100px;
+    background-color: #F9F6F1;
+    height: 450px;
+}
+
+.section-list-form {
+    padding-top: 30px;
+}
+
+.section-title {
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.section-text {
+    font-size: 60px;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.section-link {
+    background-color: #D7B399;
+    color: white;
+    padding: 10px;
+}
+
+.bots {
+    width: 400px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+}
+
+.new-money {
+    font-size: 30px;
+    color: red;
+    font-weight: 700;
+    position: absolute;
+    top: 45%;
+    left: 70%;
+}
+
+.old-money {
+    font-size: 20px;
+    color: black;
+    font-weight: 600;
+    position: absolute;
+    top: 40%;
+    left: 72%;
+    text-decoration: line-through;
+}
+
+.slider {
+    padding-top: 160px;
+    text-align: center;
+}
+
+.slider-link {
+    background-color: #CECECE;
+    width: 30px;
+    height: 7px;
+    display: inline-block;
+}
+
+.slider-list {
+    display: flex;
+    justify-content: center;
+}
+
+.slider-item {
+    padding: 10px;
+}
+
+.slider-actve-link {
+    background-color: #D7B399;
+}
+
+.delivery {
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+
+.delivery-title {
+    font-weight: 600;
+    font-size: 37px;
+}
+
+.delivery-thin {
+    font-weight: 300;
+}
+
+.delivery-text {
+    font-weight: 400;
+    padding-top: 20px;
+    font-size: 27px;
+}
