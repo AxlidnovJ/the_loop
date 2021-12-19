@@ -146,3 +146,44 @@
     padding-top: 20px;
     font-size: 27px;
 }
+
+.male-title {
+    font-size: 24px;
+}
+
+.male-text {
+    font-size: 16px;
+    padding-top: 20px;
+}
+
+.btn {
+    background-color: #D7B399;
+    width: 100px;
+    border: 0px;
+    height: 35px;
+    margin-top: 50px;
+}
+
+.gender-list {
+    padding-top: 70px;
+    width: 90%;
+}
+
+.male-img {
+    position: relative;
+    left: 60%;
+    top: -130px;
+    height: 200px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.product {
+    height: 300px;
+    background-color: #F9F6F1;
+}
+
+.male-list {
+    float: left;
+    width: 50%;
+}
