@@ -235,3 +235,10 @@
     flex-wrap: wrap;
     padding-top: 50px;
 }
+
+.contents-link {
+    display: inline-block;
+    background-color: #D7B399;
+    padding: 10px;
+    color: white;
+}
